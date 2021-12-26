@@ -12,6 +12,7 @@ We need to make sure the security best practices are being applied and guarantee
 * [Bruno Cestari](https://open.rocket.chat/direct/bruno.cestari): Security Engineer
 * [Igor Rincon](https://open.rocket.chat/direct/igor.rincon): Staff Security Engineer
 * [Shelton Souto](https://open.rocket.chat/direct/shelton.souto): Security Compliance Analyst
+* [Lucas Magno](https://open.rocket.chat/direct/lucas.magno): Junior Security Engineer
 
 ### Top OKRs, relevant for Security function, built by stakeholder input
 
